@@ -4,4 +4,10 @@ datetime,class,action,estimated,status
 2023-03-19 17:03:00,"LIFE","Class, buy things",0.1,"Pending"
 2023-03-19 17:13:00,"LIFE","Class, include info on the spreadsheed - Shopping list (tissues and kitchen paper)",0.1,"Pending"
 2023-03-19 17:13:00,"AMIGA","Re-run meerKAT pipeline part 1. Full: Continuum+Calibration+Imaging",0.5,"Done"
-2023-03-19 17:13:00,"AMIGA","Re-run meerKAT pipeline part 2. Full: Continuum+Imaging",0.5,"Pending"
+2023-03-19 17:20:00,"AMIGA","Re-run meerKAT pipeline part 2. Full: Continuum+Imaging",0.5,"Pending"
+2023-03-19 17:32:00,"espSRC","Test image TinyCore 15 as light image ",1,"Pending"
+2023-03-19 17:33:00,"espSRC","CANFAR Paper for IWSG2024",3,"Pending"
+2023-03-19 17:33:00,"espSRC+Research","IEEE Evolving systems - Status of the proceeding (Changes)",2,"Pending"
+2023-03-19 17:33:00,"espSRC","CANFAR Mapping tests headless image",1,"Pending"
+2023-03-19 17:33:00,"espSRC","CANFAR Mapping Demo",1,"Pending"
+
