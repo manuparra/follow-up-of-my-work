@@ -13,5 +13,9 @@ datetime,class,action,estimated,status
 2023-03-19 17:33:00,"espSRC","CANFAR Review Storage issue of James Collinson + External storage",1,"Pending"
 2023-03-19 17:37:00,"Events-DataBeers","DataBeers: Ask for Beers",0.1,"Pending"
 2023-03-19 17:37:00,"Events-DataBeers","DataBeers: Ask Boston Dynamics to confirm attendance",0.1,"Pending"
+2023-03-19 17:39:00,"AMIGA+espSRC","Scripts for OpenStack - Improvements querying resources, vms, storage, etc.",3,"Pending"
+2023-03-19 17:42:00,"espSRC","Create test environment for GitOps CI/CD - Demo session",3,"Pending"
+2023-03-19 17:45:00,"espSRC","Demo recorded - GitOps CI/CD",2,"Pending"
+
 
 
