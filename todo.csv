@@ -19,7 +19,8 @@ datetime,class,action,estimated,status
 2023-03-20 08:50:00,"AMIGA","Solve issue (Mem) and Re-run meerKAT pipeline from selfCal 1 Full: Continuum+Calibration+Imaging",0.5,"Done"
 2023-03-20 08:51:00,"AMIGA","Solve issue (Mem) and Re-run meerKAT pipeline from selfCal 2 Full: Continuum+Calibration+Imaging",0.5,"Pending"
 2023-03-20 08:52:00,"AMIGA","Re-run meerKAT pipeline from imaging Full: Continuum+Calibration+Imaging",0.5,"Pending"
-2024-03-20 11:23:00,"AMIGA","Upload documents Jose Castillejo",0.1,"Pending"
+2024-03-20 11:23:00,"AMIGA","Upload documents Jose Castillejo",0.1,"Done"
+2024-03-20 14:13:00,"espSRC","Create an action to gather results of the power consumtion based on metrics - em-metrics",0.1,"Pending"
 
 
 
